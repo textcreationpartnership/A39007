@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Excellent and very pretious exercise of a very devout and penitent soule passionatly affected to the solace of soules abandoned in the flames of purgatory augmented with the dolors of the B. Virg. and the prayers of the holy sindon to deliver a soule out of purgatory.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39007</idno>
+            <idno type="STC">Wing E3781</idno>
+            <idno type="STC">ESTC R40564</idno>
+            <idno type="EEBO-CITATION">19367252</idno>
+            <idno type="OCLC">ocm 19367252</idno>
+            <idno type="VID">108786</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39007)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108786)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1669:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Excellent and very pretious exercise of a very devout and penitent soule passionatly affected to the solace of soules abandoned in the flames of purgatory augmented with the dolors of the B. Virg. and the prayers of the holy sindon to deliver a soule out of purgatory.</title>
+               </titleStmt>
+               <extent>56 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Bruges by Laurence Doppersii,</publisher>
+                  <pubPlace>[Bruges] :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers.</term>
+               <term>Devotional exercises.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108786:1" rendition="simple:additions"/>
+            <p>AN EXCELLENT AND VERY Pretious Exerciſe of a very de<g ref="char:EOLhyphen"/>vout and penitent ſoule Paſſi<g ref="char:EOLhyphen"/>onatly affected to the ſo<g ref="char:EOLhyphen"/>lace of ſoules abando<g ref="char:EOLhyphen"/>ned in the flames of PURGATORY.</p>
+            <p>Augmented with the Dolors of the B. Virg. and the Prayers of the holy ſindon to deli<g ref="char:EOLhyphen"/>ver a ſoule out of Pur<g ref="char:EOLhyphen"/>gatory.</p>
+            <p>Printed at Bruges by Laurence Doppeſii. 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:108786:2"/>
+            <head>AN ADVISE.</head>
+            <p>DEare ſoules it is à moſt pro<g ref="char:EOLhyphen"/>fitable and pretious exer<g ref="char:EOLhyphen"/>ciſe, to take pitty of thoſe lan<g ref="char:EOLhyphen"/>quishing ſouls who are in thoſe incomparable flames; to give Almes, to faſt, to warch, to pray to doe pennances for them, is very good: but à bove all to of<g ref="char:EOLhyphen"/>fer for them, to that moſt amia<g ref="char:EOLhyphen"/>ble and pittifull <hi>Ieſus</hi> his owne moſt cruell and exceſſive ſuffe<g ref="char:EOLhyphen"/>rances, is fare more profitable: ſeeing that the meritts of <hi>Ieſus</hi> are incomparable: and that if your good works have any kind of meritt it is but by ther me<g ref="char:EOLhyphen"/>anes it hath bin revealed to the glorious <hi>S. Gertrude</hi> that prayers made in the name, and through
+<pb n="3" facs="tcp:108786:2"/>the amorous and dolorous ſuf<g ref="char:EOLhyphen"/>ferances of the ſonne of God, are moſt powerfull moſt excel<g ref="char:EOLhyphen"/>lent and moſt deare to the de<g ref="char:EOLhyphen"/>vines Majeſty.</p>
+            <p>Here followeth prayers to be ſayed every one on ther pro<g ref="char:EOLhyphen"/>per day, as is appointed, for the abandoned ſoules in the rigo<g ref="char:EOLhyphen"/>rous flames of Purgatory.</p>
+            <div type="prayer">
+               <head>FOR SVNDAY.</head>
+               <head type="sub">Oblation of the moſt princi<g ref="char:EOLhyphen"/>pall dolorous which <hi>Ieſus</hi> ſuffered in the Garden and his Agonys there.</head>
+               <p n="1">1, I offer unto thee ô ſweet <hi>Ieſus</hi> for the ſoules of Purgatory, all the mortall ſuffrances of thy cruell paſſion the ignominious death of the Croſs, the moſt ex<g ref="char:EOLhyphen"/>ceſſive
+<pb n="4" facs="tcp:108786:3"/>dolorous sheeding of thy moſt pretious bloud, which thou ſo amorouſly didſt povre, out for our ſalvation.</p>
+               <p n="2">2. I offer to thee ô ſweet <hi>Ieſus</hi> for the ſoules of Purgatory all thoſe great and piercing ter<g ref="char:EOLhyphen"/>tours, which ceaſed on thee in that mournfull Garden; where all the indignityes and martir<g ref="char:EOLhyphen"/>domes which thou wert to ſuf<g ref="char:EOLhyphen"/>fer the dayes following, were repreſented unto thee in then extremityes, the which made thee to tremble and wax pale with feare.</p>
+               <p n="3">3. I offer unto thee ô ſweet <hi>Ieſus</hi> for the ſoules of Purgatory, that incomparable ſadnes, which thou dideſt feele through the
+<pb n="5" facs="tcp:108786:3"/>apprehenſion of a death ſo Emi<g ref="char:EOLhyphen"/>nent ſo shamefull, and ſo inhu<g ref="char:EOLhyphen"/>mane; ſo much, that little wan<g ref="char:EOLhyphen"/>ted, that the exceſs of that ex<g ref="char:EOLhyphen"/>ceſſive ſorrow, did not make thee to dye; as thou thy ſelfe diddeſt teſtify to thy deare A<g ref="char:EOLhyphen"/>poſtles by thoſe dolefull and lanquishing words. My ſoule is ſorrowfull even unto death.</p>
+               <p n="4">4. I offer unto thee ô ſweet <hi>Ieſus</hi> for thee ſoules in Purgatory, thoſe great abaſings then when in the extremity of thy angui<g ref="char:EOLhyphen"/>shes, going to pray to thy father thou dideſt caſt thy ſelfe on thy knees and with thy face a<g ref="char:EOLhyphen"/>gainſt the earth; both out of re<g ref="char:EOLhyphen"/>verence and alſo through, being appreſſed and over<g ref="char:EOLhyphen"/>whelmd
+<pb n="6" facs="tcp:108786:4"/>with ſorrowes.</p>
+               <p n="5">5. I offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Purgato<g ref="char:EOLhyphen"/>ry, that conſtant and tender pra<g ref="char:EOLunhyphen"/>yer; which thou madeſt, with and never heard of clamours; beſeeching thy father, that he would be pleaſed to take from thee that chalice of bitternes yett neither wouldeſt thou this unleſs he would it ſo ſay<g ref="char:EOLhyphen"/>edeſt thou unto him. Not my will ô my father be done but thine.</p>
+               <p n="6">6. I offer unto thee moſt ſweet <hi>Ieſus</hi> for the ſoules in Purgato<g ref="char:EOLhyphen"/>ry, that lively and burning cha<g ref="char:EOLhyphen"/>rity, when being even plunged in à ſea of bitternes yet dideſt thou not leave to viſit thy Apoſtles, exhorting them to
+<pb n="7" facs="tcp:108786:4"/>watch, to pray and to be ware that they lett not themſelves fall into temptation.</p>
+               <p n="7">7. J offer unto thee ô moſt ſweet <hi>Ieſus,</hi> for the ſoules of Purgato<g ref="char:EOLhyphen"/>ry, that comfort which was gi<g ref="char:EOLhyphen"/>ven thee by the Angell; when thy afficted ſoule, was even on the point rye trough the exceſs of that unſupportable ſadneſs u<g ref="char:EOLhyphen"/>pon the lively apprehenſion of. ſo enormious torments; and of the ingratitudes and unthank<g ref="char:EOLhyphen"/>fullnes of the moſt part of the world.</p>
+               <p n="8">8. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules of Purgato<g ref="char:EOLhyphen"/>ry, that trough combatt which was between the fes hand and the Spirit; which cauſed the to
+<pb n="8" facs="tcp:108786:5"/>feele the very agonies of death but the ſpirit prevailed over the ſenſes trough power of the love which thou beareſt to us.</p>
+               <p n="9">9. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules of Purgato<g ref="char:EOLhyphen"/>ry, that exemplar perſeverance which thou haddeſt in thy pray<g ref="char:EOLhyphen"/>er where with thy face on the earth overwhelmed with do<g ref="char:EOLhyphen"/>lours and agonies thou ceaſeſt not to pray, without being he<g ref="char:EOLhyphen"/>ard willing in this that thy moſt bleſſed ſences should be depri<g ref="char:EOLhyphen"/>ved of all ſolace.</p>
+               <p n="10">10. J offer unto thee ô moſt ſweet <hi>Ieſus,</hi> for the ſoules in Purgatory, that pretious bloude which through the violence of thau interiour dolour diddeſt
+<pb n="9" facs="tcp:108786:5"/>ſweat in abundance, that thy garments were imbrued in bloud, and the earth moiſtned.</p>
+               <p n="11">11. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, thoſe lively and moſt peireing doulours, which thy pittifull mother did feell at the words which venerable Sime<g ref="char:EOLhyphen"/>on did ſay unto her, when she preſented thee in thee Temple that the ſword of ſorrow should pierce her heart.</p>
+            </div>
+            <div type="prayer">
+               <head>FOR MVNDAY.</head>
+               <head type="sub">Oblation of the paines which <hi>Ieſus</hi> ſuffered, affter he was taken untill he was brought to the houſe of Annas.</head>
+               <p n="1">1. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules of Purgato<g ref="char:EOLhyphen"/>ry,
+<pb n="10" facs="tcp:108786:6"/>that amourous promptitu<g ref="char:EOLhyphen"/>de of ſpirit, when to teſtiſy how nothing could force thee to dye, bur the only love which thou diddeſt beare tous; thou wenteſt thy ſelfe though yett all covered with bloud to caſt thy ſelfe, and as it were aban<g ref="char:EOLhyphen"/>don thy ſelfe over unto the fu<g ref="char:EOLhyphen"/>ry of thy greateſt enemyes; ſay<g ref="char:EOLhyphen"/>ing unto them whome ſeeke yee.</p>
+               <p n="2">2. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoule in Pur<g ref="char:EOLhyphen"/>gatory, the extreame diſplea<g ref="char:EOLhyphen"/>ſure which thou haddeſt of the infamous perfidiouſnes of Ju<g ref="char:EOLhyphen"/>das, who with ahart moſt cru<g ref="char:EOLhyphen"/>elly covetous, ſold thee for thirty pence and betrayed thee
+<pb n="11" facs="tcp:108786:6"/>with à traterous kiſs diſpleaſure ſo great, that it was even one of the greateſt that could be.</p>
+               <p n="3">3. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules of Pur<g ref="char:EOLhyphen"/>gatory, all thoſe furious and inhumane oppreſſions which thou dideſt feele then when as<g ref="char:EOLhyphen"/>ſaulted by à great number of villains, and enraged ſouldyers thou wert taken, and bond: but ſo cruelly, that it is not poſ<g ref="char:EOLhyphen"/>ſible for our ſenſes to compre<g ref="char:EOLhyphen"/>hent it, and much leſs for Any tongue to expreſs it.</p>
+               <p n="4">4. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, that patience which no pen is able to ſett forth; and which thou madeſt to appeare
+<pb n="12" facs="tcp:108786:7"/>amideſt ſo many blowes of fiſts of ſtaffes and of Holberts which thoſe ſavage executioners gave thee; both on the head, on the shoulders, and not content, did moſt cruelly tetore the haires from thy head.</p>
+               <p n="5">5. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules of Pur<g ref="char:EOLhyphen"/>gatory, all thoſe interiour acts to witt of love of ſufferance, and of reſignation offering all inholocauſt, moſt pleaſing to God thy father, in ſatisfaction for our enormious ſinnes.</p>
+               <p n="6">6. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> forte ſoules of Pur<g ref="char:EOLhyphen"/>gatory, all thoſe sharp dou<g ref="char:EOLhyphen"/>lours which tranſperced thy hart: then when in the middeſt
+<pb n="13" facs="tcp:108786:7"/>of thoſe cruell executioners and of all thy mortall blowes thou dideſt behould the ſelfe aban<g ref="char:EOLhyphen"/>dened of all thy Apoſtlos, for it is ſayed then all the Diſciple farſakieg him, fledd away.</p>
+               <p n="7">7. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules of Pur<g ref="char:EOLhyphen"/>gatory, all thoſe bloudy wol<g ref="char:EOLhyphen"/>fes did unto thee dragging thee with cruell hands out the Gar<g ref="char:EOLhyphen"/>nen; leading thee to the houſe of Annas, continually tram<g ref="char:EOLhyphen"/>pling the under ther feete, al<g ref="char:EOLhyphen"/>wayes ſtrinking, and injuring thee, foreing thee to goe on à pace; thy ſacred feete all brui<g ref="char:EOLhyphen"/>ſed and torne in pieces.</p>
+               <p n="8">8. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules of Pur<g ref="char:EOLhyphen"/>gatory
+<pb n="14" facs="tcp:108786:8"/>thoſe incomparable diſ<g ref="char:EOLhyphen"/>treſſes which thou didſt ſuffer when thou did eſt pais the Tor<g ref="char:EOLhyphen"/>rent Cedron; which teoſe bloo<g ref="char:EOLhyphen"/>dy men; made thee alone to paſs. But with all the violences and indignityes which were poſſible one drawing thy on one ſide, and others haling thee on the other ſide, as wel by the Chaines which bound thee in moſt pittifull ſort, both thy ar<g ref="char:EOLhyphen"/>mes and hands; as by thoſe which leaded, and cruelly tor<g ref="char:EOLhyphen"/>mented, thy ſacred neck.</p>
+               <p n="9">9. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, that extreame con<g ref="char:EOLhyphen"/>tempt which thou didſt ſuffer ſtanding upright with thy
+<pb n="15" facs="tcp:108786:8"/>hands bound, and thy face bent downe to the carth, befo<g ref="char:EOLhyphen"/>re that unworthy high prieſt, who with à furious regarde did queſtiou thee as if thou hadſt bin one of thee greateſt rack<g ref="char:EOLhyphen"/>hels of the world.</p>
+               <p n="10">10. J offer unto the ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory that infamous and rude blow on the face which was gi<g ref="char:EOLhyphen"/>veu thee with the armed hand of à bloody baſe fellow but with ſuch force and roughnes, that thy ſacred lawes all bruiſed ſprung forth blood in great bundance.</p>
+               <p n="11">11. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, the teares the ſighes of
+<pb n="16" facs="tcp:108786:9"/>thy moſt dolorous mother the impreſſions which tortured her ſoule when she knew that men more cruell then tigers, had li<g ref="char:EOLhyphen"/>ke as thou hadſt bin one madd or frantick bound thee with cords and loaden thee with Iron Chaines and all ſorts of indig<g ref="char:EOLhyphen"/>nityes.</p>
+            </div>
+            <div type="prayer">
+               <head>FOR TVESDAY.</head>
+               <head type="sub">Oblation of the doulours which <hi>Ieſus</hi> ſuffered in the hou<g ref="char:EOLhyphen"/>ſe of Caiphas the night of is paſ<g ref="char:EOLhyphen"/>ſion.</head>
+               <p n="1">1. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Purgatory that infamy unſupportable to al noble harts and which thon dideſt recerve then, when thon wert led louden with Chaines
+<pb n="17" facs="tcp:108786:9"/>more then any galley ſlave un<g ref="char:EOLhyphen"/>to the houſe of Caiphas where thou weert beheld with eyes moſt furiouſly incenſed, of all thoſo infamous Magiſtrates whe lie wolfes thir ſting thy moſt pretious bloud were there aſſembled to attend thy co<g ref="char:EOLhyphen"/>meing.</p>
+               <p n="2">2. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Purgatory all thoſe falſe and horrible teſ<g ref="char:EOLhyphen"/>timonys which were brought forth to take away thy honour and thy life, but nothing could be proved becauſe thoſe lyers were not agrecing in themſel<g ref="char:EOLhyphen"/>ves.</p>
+               <p n="3">3. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for thet ſoules in Purgato<g ref="char:EOLhyphen"/>ry
+<pb n="18" facs="tcp:108786:10"/>that great and profund ſilen<g ref="char:EOLhyphen"/>ce which thou dideſt keap, ne<g ref="char:EOLunhyphen"/>ver opening thy moſt lacred mouth to ſpeah one ſole worde to defend thy ſelfe againſt tho<g ref="char:EOLhyphen"/>ſe dake calumniations, which they caſt on thee, but dideſt allways remaine like the pea<g ref="char:EOLhyphen"/>ceable and innocent lambe. in the hand of hearers.</p>
+               <p n="4">4. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Purgatory the paine which nas cauſed un<g ref="char:EOLhyphen"/>to thee by thoſe arrogant con<g ref="char:EOLhyphen"/>jurements of that proud Cai<g ref="char:EOLhyphen"/>phas, to witt if thou wert the Sonne of God, to which with all humility and truth not to looſe the reſpect which thou oweſt to thy father, thou did<g ref="char:EOLhyphen"/>deſt
+<pb n="19" facs="tcp:108786:10"/>anſwer, that in effect thou weert ſo, and that at the latter dayes, thou sholdeſt come in that quality, and full of Maje<g ref="char:EOLhyphen"/>ſty to Judge the world.</p>
+               <p n="5">5. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules of Pur<g ref="char:EOLhyphen"/>gatory thoſe moſt injurious af<g ref="char:EOLhyphen"/>fronts which thou receaveſt, then when thoſe rebellious ſpi<g ref="char:EOLhyphen"/>rits having heard an anſwer, both ſo veritable and ſo high wheras they ought to have a<g ref="char:EOLhyphen"/>dored thee, they condemned thee as à infamous blaſpheamor culpable, and worthy of à thous and deaths.</p>
+               <p n="6">6. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, that enraged fury,
+<pb n="20" facs="tcp:108786:11"/>with which thoſe more then halfe diuells after that inno<g ref="char:EOLhyphen"/>cent anſwer of thine did ſett u<g ref="char:EOLhyphen"/>pon thee giving thee blowes with ther fiſts, and ſpurves with ther feete, ſome tearing of the haire from thy head, and pul<g ref="char:EOLhyphen"/>ling of thy beard, ſome in one way ſome in an otger, injuryng thee thou never ſo much as ut<g ref="char:EOLhyphen"/>tring one word of complaint.</p>
+               <p n="7">7. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, that reproach the moſt injurious the horrour of al the angells which thou didſt ſuffer; then when out of rage and en<g ref="char:EOLhyphen"/>vy bat race of diuells, did moſt dreadfully caſt on thy divine and adorable face, there moſt infamous and filthy
+<pb n="21" facs="tcp:108786:11"/>ſpittings; af if they could not find à place more infamons to ſpitt on then on thee the beau<g ref="char:EOLhyphen"/>ty of Angells ô <hi>Ieſus.</hi>
+               </p>
+               <p n="8">8. J offer unto thee ô moſt ſweet <hi>Ieſus,</hi> for the ſoules of Purgato<g ref="char:EOLhyphen"/>ry that other indignity which never was ſeene before, and which thou didſt ſuffer with à moſt amorous conſtancy which blames and condemnes the faint hartedneſs of the world then when thoſe unmercifull tormenters with an infamous baſe clowt, bound thy eyes and ſtriking thee with theyr fiſts and armed hands both on thy face, and head; ceaſed not to cry out moſt fierely; Prophecy to us ô Chriſt, who ſtrikes thee.</p>
+               <pb n="22" facs="tcp:108786:12"/>
+               <p n="9">9. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoule in Pur<g ref="char:EOLhyphen"/>gatory, that extreame diſplea<g ref="char:EOLhyphen"/>ſure, and trouble which thou receavedſt at the three denialls of Peter thy Apoſtle; who ſwo<g ref="char:EOLhyphen"/>re (though forſwearing himſel<g ref="char:EOLhyphen"/>fe) that he had never knowen thee: yett didſt thou not leave notwithſtanding to looke on him with à compaſſionat loving eye which cauſed him with hor<g ref="char:EOLhyphen"/>ror to acknowledge his crime; for which he extramly grieved all the dayes of his life.</p>
+               <p n="10">10. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules of Purgato<g ref="char:EOLhyphen"/>ry, all thoſe horride affronts which thou ſuſtained all the reſt of that pittifull night: for affter
+<pb n="23" facs="tcp:108786:12"/>that thou wert abandoned and put into the hands of thoſe cru<g ref="char:EOLhyphen"/>ell murtherers, they never cea<g ref="char:EOLhyphen"/>ſed to lay on thee and that with horrour blows with theyr fiſts, ſpurns whit theyr feete, filthy ſpittings and injurious wordes and moſt horrible blaſphemyes.</p>
+               <p n="11">11. I offer to thee ô moſt ſweet <hi>Ieſus,</hi> for the ſoules in Purga<g ref="char:EOLhyphen"/>tory thoſe moſt extreame re<g ref="char:EOLhyphen"/>ſentments which thy moſt do<g ref="char:EOLhyphen"/>lorous Mother had; behoul<g ref="char:EOLhyphen"/>ding on the one ſide the weak<g ref="char:EOLhyphen"/>nes of thy Apoſtles and on the other the enraged fury of peo<g ref="char:EOLhyphen"/>ple incenſed to give thee athou<g ref="char:EOLhyphen"/>ſand affronts and as many pai<g ref="char:EOLhyphen"/>nes and ſufferings.</p>
+            </div>
+            <div type="prayer">
+               <pb n="24" facs="tcp:108786:13"/>
+               <head>FOR VVENESDAY.</head>
+               <head type="sub">Oblation of the firſt torments which <hi>Ieſus</hi> did ſuffer in the morning on the day of his paſ<g ref="char:EOLhyphen"/>ſion.</head>
+               <p n="1">1. I offer unto the ô moſt ſweet <hi>Ieſus</hi> forthe ſoules of Purgatory the paine which was cauſed un<g ref="char:EOLhyphen"/>to thee by thoſe three accuſati<g ref="char:EOLhyphen"/>ons as infamous as falſe; which the Princes of the Jewes did lay to thy charge in the preſence of Pilate: to witt that were à ſedu<g ref="char:EOLhyphen"/>cer of the world; that thou had<g ref="char:EOLhyphen"/>deſt forbidden to pay tribute to ceſar and thou dideſt vaunt thy ſelfe, to be kind of the Jewes.</p>
+               <p n="2">2. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Purgatory thot moſt profund humility
+<pb n="25" facs="tcp:108786:13"/>letting thy ſelfe be lead as one without might or prower, all appreſſed with chaines and lo<g ref="char:EOLhyphen"/>aden with durt through the ſtreets to be preſented to herod unto whoſe demands for Good reaſons, thou ſayd not one word where upon that proud king tooke occaſion to hold thee in contempt and to ſcorne and deride thee ô <hi>Ieſus.</hi>
+               </p>
+               <p n="3">3. I offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, that great diſdaine and horrible contempt which that wicked king made of thy perſon euer adorable, whome he cau<g ref="char:EOLhyphen"/>ſed to be caſt on thy ſacred ſchoulders, a white roabe; but moſt baſe, torne, and filthy.
+<pb n="26" facs="tcp:108786:14"/>Proper for the cloathing of à foole; and allſo like ſuch and one wert thou made the mocke and ſcoff of both king and the whole court.</p>
+               <p n="4">4. I offer unto thee ô moſtſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, all thoſe infamous bea<g ref="char:EOLhyphen"/>tings and ſcoffs, which all thoſe people ſpitting in thy face, ſee<g ref="char:EOLhyphen"/>ing the great contempt Herod had made of thy perſon making thee be led back like a man without ſence or feeling to thee preſident Pilate; where during that ſad and painfull way, thou were à new loaden, both with ſtones and mire.</p>
+               <p n="5">5. J offer unto the ô moſt ſweet <hi>Ieſus</hi> for the ſoule in Pur<g ref="char:EOLhyphen"/>gatory,
+<pb n="27" facs="tcp:108786:14"/>all thoſe frightfull cryes which thoſe cruell ſacrilegous men did make, demanding that thou shouldeſt be crucifyed, and the thiefe and murder Barrabas ſett att liberty; crucifige, cruci<g ref="char:EOLhyphen"/>fige did they cry with moſt di<g ref="char:EOLhyphen"/>uelish fury.</p>
+               <p n="6">6. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, all thee ſtepps which thou didſt make when trailed to the place of malefactours, there to be moſt cruelly rent and tor<g ref="char:EOLhyphen"/>ne in pieces from the ſol of the foot to the crowne of the head, by rodds, by chaines, by the ſinews of oxen and the hands of moſt hellish butchers, ô <hi>Ieſus</hi>
+               </p>
+               <p n="7">7. J offer unto thee ô moſt
+<pb n="28" facs="tcp:108786:15"/>ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, that great bashfullneſs, and the exceſſiue dolour which thou diddſt feele; when they ſtripped thee of thy garments, and ſett thee naked before all the people, where they bound the to à dreadfull pillar ſo cru<g ref="char:EOLhyphen"/>elly as that thy pretious hands, did cleaue and ſpring forth blood.</p>
+               <p n="8">8. I offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, all thoſe horrid ſtrokes of whipps and ſcourges, which thoſe cruell hangmen like bar<g ref="char:EOLhyphen"/>barous tirants. did forge with ſtrength of arme, and euen till they weare breathleſs, more fleshed theu doggs on theyr
+<pb n="29" facs="tcp:108786:15"/>pray, diſcharged like haile ſto<g ref="char:EOLhyphen"/>nes ouer all the parts of thy moſt pretious and venerable body; which in à moment was ſeen, all couered ouer, both with bloud and woundes.</p>
+               <p n="9">9. I offer unto the ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, all thoſe dolorous and bruſſed wounds, which ſeemed à horrour to be all as one wound ſo much wert thou all ouer co<g ref="char:EOLhyphen"/>uered and pittifully treated, that thy wounds were layed and heaped one upon an other ô <hi>Ieſus.</hi>
+               </p>
+               <p n="10">10. I offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules of Pur<g ref="char:EOLhyphen"/>gatory the unſuppoortable ex<g ref="char:EOLhyphen"/>ceſs of that dreadfull Barbari<g ref="char:EOLhyphen"/>ouſnes,
+<pb n="30" facs="tcp:108786:16"/>then when unbound from the Pillar thou dideſt fall downe into thy owne bloud, where thoſe ſacrilegious men, more cruell then Tyres, did kiek and ſpurne thee with theyr feet; dropp of thy bloud; did lay on furyouſly new blows on thoſe parts which the Pillar had à little defended.</p>
+               <p n="11">11. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, the langours of thy moſt amiable Mother then when with eyes halfe open, and head halfe bowed dowe, she beheld thee ſo barbaroſly crowned, and ſo inhumanly rent, and totne in piecs; that thou reſembleſt rather à maſs or lump of fleash
+<pb n="31" facs="tcp:108786:16"/>all covered with bloud, then like à man.</p>
+            </div>
+            <div type="prayer">
+               <head>FOR THVRSDAY.</head>
+               <head type="sub">Oblation of all the doulours which <hi>Ieſus</hi> ſuffered in his crow<g ref="char:EOLhyphen"/>ning with thornes.</head>
+               <p n="1">1. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Purgatory all thoſe dolorous and painfull faintings, which thou dideſt feele then, when they made thee walke in haſty paces when not withſtanding through ex<g ref="char:EOLhyphen"/>ceſs of à mortall feeblenes thou ſcarce couldeſt goe one ſtepp, through the court of the palla<g ref="char:EOLhyphen"/>ce there to be tormented moſt tiranically, in à faſtion neuer more heard of, or ſeene.</p>
+               <p n="2">2. I offer unto thee ô moſt
+<pb n="32" facs="tcp:108786:17"/>ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, that offront which no hart leſs patient then thine could haue ſuffered then, when on thy all toren shoulders (not leſs royall) they caſt trough à moſt diſdainfull contempt, à baſe thridbare torne and filty peece of purple.</p>
+               <p n="3">3. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, that mortall felony, which might make both hea<g ref="char:EOLhyphen"/>uen and earth tremble through horrour, and the whole world weep through ſorrow, when thoſe cruell men (now euen become diuells) did ſett, and driue in with armed fiſts and great ſtroks of ſtafes, à crowne
+<pb n="33" facs="tcp:108786:17"/>of throns on thy head.</p>
+               <p n="4">4. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Purgatory al thoſe moſt pretious dropps of bloud, which rann downe here and there, from thy moſt vene<g ref="char:EOLhyphen"/>rable and ſacred head peirced and peirced through againe on high and below on the ſide and euery where: thou notwith<g ref="char:EOLhyphen"/>ſtanding all this like à moſt pea<g ref="char:EOLhyphen"/>ceable and mourning turtle, under thoſe mortall thornes, diddeſt not ceaſe, ô amiable and little beloued <hi>Ieſus,</hi> in our conſideration to exerciſe inte<g ref="char:EOLhyphen"/>riour acts of fortitude, of loue, and of patience.</p>
+               <p n="3">3. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory,
+<pb n="34" facs="tcp:108786:18"/>that exceſſive ſubmiſ<g ref="char:EOLhyphen"/>ſion which thou madeſt appea<g ref="char:EOLhyphen"/>re then when not to refuſe to beare all the royall dreſſings; which Barbarouſnes it ſelfe could invent; thou dideſt take into thy hand for ſepter an in<g ref="char:EOLhyphen"/>famous Reed, the marke of in<g ref="char:EOLhyphen"/>conſtancy.</p>
+               <p n="6">6. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, the extreame abaſ<g ref="char:EOLhyphen"/>ment which in this perticular thou madeſt of thy perſon in that having under thy power, the Septers, and crownes, and all the eſtates of the world, thou woldeſt chooſe for thy ſelfe, à reed, and thornes, for ſcepter and crowne; marke of thy
+<pb n="35" facs="tcp:108786:18"/>greatnes the moſt unfortunatt and unhappy eſtate.</p>
+               <p n="7">7. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Purgatory that incomparable patience, which thou haddeſt att the mockeryes of thoſe helliſh peo<g ref="char:EOLhyphen"/>ple, who not content thus to have diſcharged, all the utter<g ref="char:EOLhyphen"/>moſt of there Barbarous Tiran<g ref="char:EOLhyphen"/>ny, neyer ceaſed but ſcornfully putting out there toungs, and treating thee rudely, cryd out by à horrible mocquery: all hayle king of the Jewes.</p>
+               <p n="8">8. I offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Purgatory that blush hand bashfullnes and the ſorrow which thou dideſt feele then when the preſident
+<pb n="36" facs="tcp:108786:19"/>made thee to be lead in that ſad aquipage moſt shamefully by the Chaine wayed downe thy neck, to preſent thee befor thy people; where lifting up one of the skirts of that infamous robe and making thee turne to one ſide and the other; ſayed to all the behoulders, loe the man.</p>
+               <p n="9">9. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatore the paine which thou dideſt feele and which cannot well be expreſſed, then when thou didſt heare thoſe unſenſi<g ref="char:EOLhyphen"/>ble harts, like heated bulls and incenſed Elephants att the ſight of thy moſt pretious bloud, to ery moſt fiercly, nott willin not able any longer to indure indu<g ref="char:EOLhyphen"/>re
+<pb n="37" facs="tcp:108786:19"/>thee Tolle; Tolle: Crucifige, Crucifige.</p>
+               <p n="10">10. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules of Purgato<g ref="char:EOLhyphen"/>ry, thos mortall blowes which would haue shaken the ſtrongeſt conſtancy, and which thou didſt feele then when to ſatisfy to an inraged fury of abandoned ſou<g ref="char:EOLhyphen"/>les, thar perfidious and hellish Preſident, would that thou shouldeſt dye, and allſo of à death which could not haue bin inuented but amoughſt thoſe dieulish ſpiritts.</p>
+               <p n="11">11. J offer unto the ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, that long and lanqius<g ref="char:EOLhyphen"/>hing martirdome which thy moſt afflicted mother did ſuffer then when
+<pb n="38" facs="tcp:108786:20"/>following the ſtreets, she be<g ref="char:EOLhyphen"/>held thee to faint, and fall un<g ref="char:EOLhyphen"/>der the weight of thy Croſs, and at the ſame inſtant, all trembling and ſtaggering, draw<g ref="char:EOLhyphen"/>ne up by the Chaines, and cor<g ref="char:EOLhyphen"/>des. Sett upon thy feete; lea<g ref="char:EOLhyphen"/>ving all the ſtones, dyed with thy pretious bloud.</p>
+            </div>
+            <div type="prayer">
+               <head>FOR FRIDAY.</head>
+               <head type="sub">Oblation of the dolours which <hi>Ieſus</hi> ſuffered in carrying his Croſs to mount Calvary.</head>
+               <p n="1">1. J offer unto thee ô moſt ſweet <hi>Ieſus,</hi> for the ſoules of Purgato<g ref="char:EOLhyphen"/>ry, all thoſe bonfyers of joy and rejoycement, which to thee could not be other then moſt cruell hells, which thoſe poſſe<g ref="char:EOLhyphen"/>ſed ſoules did make, when they
+<pb n="39" facs="tcp:108786:20"/>beheld thee in theyr hott and furious purſuits, and torments of the Croſs.</p>
+               <p n="2">2. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoule in Pur<g ref="char:EOLhyphen"/>gatory, thoſe black and bloody bruſings which that infamous Croſs moſt frightfully weighty, did cauſe thee; when it was as rudely, as unmercifully, caſt on thy shoulders, all torne and diſcouered even to the bones.</p>
+               <p n="3">3. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory all thoſe exceſſes which were cauſed unto thee, by the execrable inhumanity of thoſe deteſtable wretches drawing thee to the place of torment, one haling thee on one ſide,
+<pb n="40" facs="tcp:108786:21"/>and others on the other ſide; ſtriking thee withe great blows of ſtoffs, haſtning thee to walke on à pace all dying with enuy and impatience, to ſee thee on the Croſs.</p>
+               <p n="4">4. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules of pur<g ref="char:EOLhyphen"/>gatory, thoſe fine mortall falls which thou haddeſt under the weight of that unſupportable burthen under which thy ſacred members trembled through weakneſs, through the exceſs of the torment and all thy bleſ<g ref="char:EOLhyphen"/>ſed body was ſo cruelly bruſed and ouer weighed that ſcarce couldeſt thou take breath.</p>
+               <p n="5">5. I offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in pur<g ref="char:EOLhyphen"/>gatory,
+<pb n="41" facs="tcp:108786:21"/>that great and peaceble mildnes, which thou diddſt shew at thoſe unworty and injurious proceedings of all thoſe deſpe<g ref="char:EOLhyphen"/>rat madd people, who to ouer whelme thee with deſpite and opprobry, did driue thee out of the gates of theyr citty, did ma<g ref="char:EOLhyphen"/>ke thee march, in the middeſt of two infamous theeues as if thou haddeſt bin the chiefe of them, or à creature unworthy of theyr company.</p>
+               <p n="6">6. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules of Purgato<g ref="char:EOLhyphen"/>ry, thoſe languour, thoſe fain<g ref="char:EOLhyphen"/>tings and thoſe deaths, which thou didſt feele; not any more able to ſtand on thy feet, and much leſs any farther to carry
+<pb n="42" facs="tcp:108786:22"/>that heavy Croſs; where upon they were forced nor through pitty, but rather through an exceſs of cruelty, for feare le<g ref="char:EOLhyphen"/>aſt thou shouldeſt dye before thou wearr nailed there on to take it of thy shouldets, and lay it with great force upon thoſe of gimon Cereneus: not ceaſing never the leſs, to driue thee on forwards a pace, with great blowes of cudgells.</p>
+               <p n="7">7. I offer unto thee ô woſt ſweet <hi>Ieſus</hi> for the ſoules of Purgato<g ref="char:EOLhyphen"/>ry that drinck which thoſe cru<g ref="char:EOLhyphen"/>ell men did offer thee to drinck then when all trembling and out of breath, thou wert arri<g ref="char:EOLhyphen"/>yed on the height of that ſtinc<g ref="char:EOLhyphen"/>kinh mounttaine, for feare le<g ref="char:EOLhyphen"/>aſt
+<pb n="43" facs="tcp:108786:22"/>à mortall fainting should come to end theyr execrable rage: yett wouldeſt thou not take it; not willing that any part of thy body should feele any ſolace in the middeſt of the extremity of theſe thy laſt ſufferreances.</p>
+               <p n="8">8. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Purgatory thoſe incomparable torments, which thou diddſt feele; then when as unworthyly, as furi<g ref="char:EOLhyphen"/>ouſly they pulled of ther gar<g ref="char:EOLhyphen"/>ments, glwed with the congea<g ref="char:EOLhyphen"/>led blood to thy bruiſed and wounded fleash, which did à new open thoſe wounds whe<g ref="char:EOLhyphen"/>rewith thou wert all over coue<g ref="char:EOLhyphen"/>red and perticularily in that of
+<pb n="44" facs="tcp:108786:23"/>thy head by the rude mouing of the thornes, which were moſt deeply pierced there into.</p>
+               <p n="9">9. I offer unto the ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, the infinirt meritts of that conſtant and feruent pray<g ref="char:EOLhyphen"/>er, which thou madeſt in that manner naked, trewbling both through cold, and feebleneſs, and kneeling on the ground; befor that thou wert ſo pitti<g ref="char:EOLhyphen"/>fully: ſtreached forth on the venerable Aulter of the holy croſs beſeeching God thy fa<g ref="char:EOLhyphen"/>ther to accept of that bloudy ſacrifice in fauour of poore mi<g ref="char:EOLhyphen"/>ſerable humane nature.</p>
+               <p n="10">10. J offer unto the ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory,
+<pb n="45" facs="tcp:108786:23"/>that mortall and utter<g ref="char:EOLhyphen"/>moſt cruell butehery ſuch as the ſunne ſince the firſt day of itts creation never did give light unto nor ever shall give light unto the like, then when thy moſt ſacred hands and thy adorable feet were pierced tho<g ref="char:EOLhyphen"/>rough, (ô horrour) and faſt<g ref="char:EOLhyphen"/>ned with great and rough nai<g ref="char:EOLhyphen"/>les, to that mornefull woode.</p>
+               <p n="11">11. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for ſoules of Purga<g ref="char:EOLhyphen"/>tory thoſe languisking and do<g ref="char:EOLhyphen"/>lours uſuportable to any other which thoſe a morous and com<g ref="char:EOLhyphen"/>paſſion at bowells of ſo deare à Mother did feele, then when she beheld her ſelfe in thy per<g ref="char:EOLhyphen"/>ſon faſtned on the Croſs: the
+<pb n="46" facs="tcp:108786:24"/>ſame dolours which thou didſt feele during the time of that Barbarous buchery the ſame felt shee, in her feet, in her hands and all other parts of her body.</p>
+            </div>
+            <div type="prayer">
+               <head>FOR SATERDAY.</head>
+               <head type="sub">Oblation of the dolours which <hi>Ieſus.</hi> ſuffered hanging aliue on the Croſs.</head>
+               <p n="1">1. I offer unto the ô moſt ſweet <hi>Ieſus</hi> for the ſoules of Pur<g ref="char:EOLhyphen"/>gatory that which thou didſt feele thrugh all the parts of thy dying body, then when with great haſt and without any pit<g ref="char:EOLhyphen"/>ty, thoſe men cruelly ſavage did lift up, and lett full from on high the Croſs into the ho<g ref="char:EOLhyphen"/>le prepared, which cauſed that
+<pb n="47" facs="tcp:108786:24"/>the thornes hitting againſt the wood entered deeper into thy head and all thy wounds wear à new opened and bled à fresh</p>
+               <p n="2">2. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, that moſt cruell and moſt ſencible marterdome which thou ſuffered the three laſt howers which thou remai<g ref="char:EOLhyphen"/>ned liveing and inhumanly nayled and faſtned on that in<g ref="char:EOLhyphen"/>famous woode, where thy ſa<g ref="char:EOLhyphen"/>cred bopy, all thy bloud ex<g ref="char:EOLhyphen"/>hauſted, was only ſuſtayned with three cruell and Barbarous nailes which without pitty pier<g ref="char:EOLhyphen"/>ced through thy hands and feett.</p>
+               <p n="3">3. J offer unto thee ô moſt
+<pb n="48" facs="tcp:108786:25"/>ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, that extreame torment which thy amorous bowalls felt then when hanging ſo on the Croſs the high preiſt with the ſeribes and and Phareeſes ceaſed nor to vomitt forth and utter à thouſand horrible blaſs<g ref="char:EOLhyphen"/>phemies à gainſt thy goodnes and omnipotent power; wi<g ref="char:EOLhyphen"/>thout knowing never the leſs ho wit had on mercifully aban<g ref="char:EOLhyphen"/>doned thee in this laſt extrea<g ref="char:EOLhyphen"/>mity and infameus torment.</p>
+               <p n="4">4. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in purgatory that miracle of love which ra<g ref="char:EOLhyphen"/>vished and aſtonished the har<g ref="char:EOLhyphen"/>tes even, of men the moſt Bar<g ref="char:EOLhyphen"/>barous, then when moſt amo<g ref="char:EOLhyphen"/>rouſly
+<pb n="49" facs="tcp:108786:25"/>forgetting thoſe terrible and horrid trearings of that bloody barboriſme thou pray<g ref="char:EOLhyphen"/>ed with all loving tendernes thy heavenly father forgive them for they know not what they doe.</p>
+               <p n="5">5. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, that exceſſive burning thirſt which extreamly tormen<g ref="char:EOLhyphen"/>ted thy bleſſed and pretious bo<g ref="char:EOLhyphen"/>wells ſo much as it forced thee moſt pittifully to cry out out, J thirſt, when thoſe barbarous men to refresh thee, preſented thee with viniger cruell enemy to wounds which ſpilling all about becauſe the ſpunge was with rude violence heaved up
+<pb n="50" facs="tcp:108786:26"/>unto thee could not but cauſe thee extreame paine and do<g ref="char:EOLhyphen"/>lours.</p>
+               <p n="6">6. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, all thoſe laſt amorous, languishing and dying words which thou pronounted like unto the reſt when thoſe laſt pangs began to ceaſe upon thee ſaying my God, my God why haſt thou forſaken me, my fa<g ref="char:EOLhyphen"/>ther into thy hands J commed my ſpiritt, and ſo thou gaveſt up the Ghoſt.</p>
+               <p n="7">7. J offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Purgatory that moſt crucell and extreame martyrdome, which never hath had or ever shall have itts like
+<pb n="51" facs="tcp:108786:26"/>and which thy puiſant hand had not hindered it, would ha<g ref="char:EOLhyphen"/>ve violently drawne forth the ſoule of that incomparable mo<g ref="char:EOLhyphen"/>ther through the exceſs of tho<g ref="char:EOLhyphen"/>ſe unſpeakable ſufferances, not being able te ſuffer with out dy<g ref="char:EOLhyphen"/>ing to ſee thee ſo nailed and hoyſed up in the ayre, with thy face pale and blacke, thy cheeks ſunck in, thy lipps blewish, and thy head bent dowe, render up thy Ghoſt amideſt thouſand and thouſinds mortall wounds, into the hands of thy father.</p>
+               <p n="8">8. I offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, all thoſe deare and amorous kiſſes which with pierced heart thy dolorous mo<g ref="char:EOLhyphen"/>ther
+<pb n="52" facs="tcp:108786:27"/>gave thee affer they had token thee downe from the croſt, and that they had layd thee in her armes now kiſting one wound theu an other admi<g ref="char:EOLhyphen"/>ring the cruellty of men.</p>
+               <p n="9">9. I offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, thoſe extreame diſplea<g ref="char:EOLhyphen"/>ſures, and that inſupportable paine which is knowne to thee alone which that mother who never had her like in ſufferran<g ref="char:EOLhyphen"/>ces did feele, when they tooke thee out of her armss, and that they tooke thee from her ſight cavering thee with à white lin<g ref="char:EOLhyphen"/>ning laying thee and shutting thee faſt up in à ſad ſepulcher.</p>
+               <p n="10">10. J offer unto thee ô moſt
+<pb n="53" facs="tcp:108786:27"/>ſweet <hi>Ieſus</hi> for the ſoule in Pur<g ref="char:EOLhyphen"/>gatory, the teare and ſighes the griefes which she had, the ſtrife which she made to leave that mountaine and to returne into Jeruſalem: all the pawſes, all the turnnings back of her head which shee made, towards the place of thy ſuffering whilſt she went on her way and before she entred into the towne.</p>
+               <p n="11">11. I offer unto thee ô moſt ſweet <hi>Ieſus</hi> for the ſoules in Pur<g ref="char:EOLhyphen"/>gatory, that perpetuall remem<g ref="char:EOLhyphen"/>brance which thy moſt holy and bleſſed morher had, all the reſt of hor languishing and dying life, of the whipps, of the chai<g ref="char:EOLhyphen"/>nes, of the thornes, of the nai<g ref="char:EOLhyphen"/>les, and of all thoſe other mur<g ref="char:EOLhyphen"/>thering
+<pb n="54" facs="tcp:108786:28"/>inſtruments which had as uniuſtly as inhumanly robbed thee from her deare and com<g ref="char:EOLhyphen"/>paſſionat eyes.</p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer to beſayed at the end of the Prayers of each day,</head>
+               <p>ô Sweet <hi>Ieſus,</hi> ô <hi>Ieſus,</hi> ô deare and loving <hi>Ieſus,</hi> ô ſweet Vir<g ref="char:EOLhyphen"/>gin, ô Virgin, ô Dolefull Vir<g ref="char:EOLhyphen"/>gin: take pitty and shen mercy in favour of all thoſe long and mortall ſufferances, to the ſou<g ref="char:EOLhyphen"/>les abandoned to the rigorous flames of Purgatory.</p>
+            </div>
+            <div type="prayer">
+               <head>THE PRAYER of the Sindon to deliver à Sou<g ref="char:EOLhyphen"/>le out of Purgatory.</head>
+               <p>O lord God who in the holy Sin<g ref="char:EOLhyphen"/>don
+<pb n="55" facs="tcp:108786:28"/>in which thy moſt ſacred Body taken downe from the Croſs was enwrapped by Joſeph haſt left unto us the markes of thy Paſſion grant unto us meri<g ref="char:EOLhyphen"/>fully that by thy death and bu<g ref="char:EOLhyphen"/>riall wee may arrive to the Glo<g ref="char:EOLhyphen"/>ry of thy Reſurection who lives and Raine, with God world without end. Amen.</p>
+            </div>
+            <div type="conclusion">
+               <p>BY adding this Prayer of the ſindon every day to the other Prayers you may every day gaine à Soule out of Purgatory: and who have leſaſure and devoton to it may add this Prayer to every particular point in each day and
+<pb n="56" facs="tcp:108786:29" rendition="simple:additions"/>ſo gaine dayle Eleaven Soules out of Purgatory.</p>
+               <p>You may apply eanh, or all to any perticular Soule or Sou<g ref="char:EOLhyphen"/>las as you pleaſe.</p>
+               <pb facs="tcp:108786:29"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
